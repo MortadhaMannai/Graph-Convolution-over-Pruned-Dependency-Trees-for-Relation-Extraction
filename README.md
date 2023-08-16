@@ -7,7 +7,8 @@ This paper/code introduces a graph convolutional neural network (GCN) over prune
 
 See below for an overview of the model architecture:
 
-![GCN Architecture](fig/architecture.png "GCN Architecture")
+![image](https://github.com/MortadhaMannai/Graph-Convolution-over-Pruned-Dependency-Trees-for-Relation-Extraction/assets/93622509/2ab249e9-d040-47f9-b117-6c905517c526)
+
 
 ## Requirements
 
